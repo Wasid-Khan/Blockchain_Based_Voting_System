@@ -16,6 +16,12 @@ The project includes 5 functions. It includes:
 4. VoteCount: Shows the number of votes for a particular party. It shows all the participating parties and their votes alongside.
 5. voterInfo: Provides complete details for the voter. Takes an ID and shows all the relevant details such as name, id, part to which the vote is casted.
 
+Usage:
+Step 1: Open remix.sol file
+Step 2: Copy code
+Step 3: Paste in Remix IDE
+Step 4: Enjoy!
+
 **Coming Soon: A front-end application and further relevant functionalites are coming soon. It will make the application deployable to solve the issue of manual voting system**
 
 Happy Learning!
