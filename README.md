@@ -29,4 +29,6 @@ Step 4: Enjoy!
 
 **Coming Soon: A front-end application and further relevant functionalites are coming soon. It will make the application deployable to solve the issue of manual voting system**
 
+We are going to make the project look more cool and meaningful ! Stay tunned,
+
 Happy Learning!
